@@ -41,6 +41,10 @@ I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree
 
 </div>
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
