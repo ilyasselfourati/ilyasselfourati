@@ -40,6 +40,12 @@ I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn width="60" height="60"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilyasselfourati)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasselfourati&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **ilyasselfourati/ilyasselfourati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
