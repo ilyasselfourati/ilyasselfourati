@@ -9,7 +9,7 @@
 
 I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree from digitallab Centrale Marseille and currently pursuing studies at Ecole Centrale Casablanca while interning in my final year. With a deep-rooted belief in the transformative power of technology, I am driven by the prospect of leveraging data to instigate positive change. My passion lies in deploying data science methodologies to untangle intricate challenges and enact tangible enhancements in people's lives. I staunchly advocate for the ethos of hard work and unwavering dedication as fundamental cornerstones of achievement. Echoing the sentiments of celebrated author Stephen King, __'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.'__ Committed to perpetual learning and evolution, I am steadfast in my commitment to utilizing my expertise to effect significant advancements in the realm of data science.
 
-### Socials
+### 🤝🏻 Socials
 
 <p align="center"> <a href="https://www.github.com/ilyasselfourati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://fr.linkedin.com/in/ilyasselfourati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
