@@ -6,13 +6,13 @@ I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </div>
 
 <!--
