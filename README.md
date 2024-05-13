@@ -11,11 +11,11 @@
   <a href="a href="mailto:ilyasselfourati@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+  <img src="https://komarev.com/ghpvc/?username=ilyasselfourati&style=flat-square&color=blue" alt=""/>
 </div>
     
-<div align = "center">
-<img src="https://komarev.com/ghpvc/?username=ilyasselfourati&style=flat-square&color=blue" alt=""/>
-</div>
+
+
 
 
 ### :man_technologist: About Me :
