@@ -1,4 +1,4 @@
-<h2><center></center>Data Scientist | AI/ML Engineer 👋</center></h2>
+<h2><center>Data Scientist | AI/ML Engineer 👋</center></h2>
 
 ### :man_technologist: About Me :
 
