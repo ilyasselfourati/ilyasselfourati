@@ -6,7 +6,7 @@ I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="60" height="60"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="60" height="60"/>&nbsp;
