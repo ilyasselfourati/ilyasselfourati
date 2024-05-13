@@ -1,17 +1,20 @@
-<h2 align ="center">Data Scientist | AI/ML Engineer 👋</h2>
+<h2 align ="center">Data Scientist | AI/ML Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://fr.linkedin.com/in/ilyasselfourati">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="a href="mailto:ilyasselfourati@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
+    
+<div align = "center">
 <img src="https://komarev.com/ghpvc/?username=ilyasselfourati&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ### :man_technologist: About Me :
