@@ -42,9 +42,11 @@ I'm Ilyass El Fourati, a `Data Scientist` and `AI/ML Engineer`, holding a degree
 
 ### :fire: My Stats :
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilyasselfourati&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasselfourati&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
