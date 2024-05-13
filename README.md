@@ -10,6 +10,7 @@
   </a>
   <a href="a href="mailto:ilyasselfourati@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
 </div>
     
 <div align = "center">
