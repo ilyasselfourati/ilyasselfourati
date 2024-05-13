@@ -4,6 +4,8 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -14,4 +16,4 @@ jobs:
       - uses: ilyasselfourati/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
