@@ -4,19 +4,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align = "center">
-  <a href="https://fr.linkedin.com/in/ilyasselfourati">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="a href="mailto:ilyasselfourati@gmail.com">
-    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  <img src="https://komarev.com/ghpvc/?username=ilyasselfourati&style=flat-square&color=blue" alt=""/>
-</div>
-    
-
-
-
 
 ### :man_technologist: About Me :
 
