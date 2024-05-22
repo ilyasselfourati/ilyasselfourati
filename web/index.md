@@ -104,7 +104,7 @@ title: About
       <p> 
       <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Oct 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
       </p>
-      <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
+      <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
       <center class="instafeed">
         <span class="instalight">
           <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
