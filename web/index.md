@@ -32,7 +32,7 @@ title: About
       <div class="underline"></div>
       <p><strong>Hello! I’m Ilyass El Fourati,</strong>  a Data Scientist and AI/ML Engineer, holding a degree from digitallab Centrale Marseille and currently pursuing studies at Ecole Centrale Casablanca while interning in my final year. With a deep-rooted belief in the transformative power of technology, I am driven by the prospect of leveraging data to instigate positive change. My passion lies in deploying data science methodologies to untangle intricate challenges and enact tangible enhancements in people's lives. I staunchly advocate for the ethos of hard work and unwavering dedication as fundamental cornerstones of achievement. Echoing the sentiments of celebrated author Stephen King, <strong>'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.'</strong> Committed to perpetual learning and evolution, I am steadfast in my commitment to utilizing my expertise to effect significant advancements in the realm of data science.
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
+     <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
       <p>
       <ul>
         <li>Designed an application based on language models (LLM) specialized in the field of intellectual property to assist patent engineers.
@@ -42,7 +42,7 @@ title: About
         </li>
       </ul>
       </p>
-     <p><strong style="font-size: 1.5em;">Data Leader </strong><strong><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
+     <p><strong style="font-size: 1.5em;">Data Leader </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
      <p>
       <ul>
         <li>Collect, analyze, and visualize data from internal software (ETL).
@@ -57,7 +57,7 @@ title: About
             🛠️Foundry (Palantir)<br>
             🛠️PostgreSQL
       </p>
-      <p><strong style="font-size: 1.5em;">Data Scientist | Computer Vision </strong><strong><span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
+      <p><strong style="font-size: 1.5em;">Data Scientist | Computer Vision </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
       <p>Reduction of CO2 emissions due to the use of concrete from purchase invoices :
       <ul>
         <li>Collection and cleaning of invoices.
@@ -69,7 +69,7 @@ title: About
       <b>Libraries & techniques :</b><br> 
             🛠️Python : Numpy, Dash, Pandas, Sickit-learn, YOLOv7, Tensorflow, OCR, NER, NLP, Streamlit
       </p>
-      <p><strong style="font-size: 1.5em;">DataFiab Project </strong><strong><span class="date" style=" color: inherit;">Oct 2022 - Dec 2022</span><br><a>Groupe ADF</strong></a> - Freelance</p>
+      <p><strong style="font-size: 1.5em;">DataFiab Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2022 - Dec 2022</span><br><a>Groupe ADF</strong></a> - Freelance</p>
       <p>The aim of this project is to clean and standardize maintenance data collected from various sources, structure and store it in a database, apply machine learning (NLP) to the textual information, and visualize and highlight the stored data in Power BI.
       <ul>
         <li>Creation of a generalized pipeline to clean, standardize, and store CMMS (SAP) data from various companies using Pandas (Python) and MySQL.
@@ -84,13 +84,13 @@ title: About
             🛠️Power BI : Power Query, DashBoards/Rapports, DAX.<br>
             🛠️MySQL
       </p>
-      <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
+      <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
       <p>In-depth study of the impact of COVID on the global economy : </p>
       <ul>
         <li>Data collection, cleaning, analysis and visualisation.
         <li>Creation of a Dashboard (Dash/Plotly) to present the results.
         </li>
-      <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p>
+      <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p>
       <ul>
         <li>Collection of data from different satellites
         <li>Evaluation of remote sensing data for predicting extreme rainfall over Morocco.
