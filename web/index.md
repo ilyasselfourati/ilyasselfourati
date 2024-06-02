@@ -106,7 +106,7 @@ title: About
       <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Oct 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
       </p>
       <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
-      <h2><i class="fas fa-graduation-cap"></i> Certificats -</h2>
+      <h2><i class="fa-solid fa-certificate"></i> Certificats -</h2>
       <p> 
       <strong> <a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX">Python for Data Science, AI & Development</a> <br>Coursera</strong>
       </p>
