@@ -108,13 +108,13 @@ title: About
       <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
       <h2><i class="fas fa-graduation-cap"></i> Certificats -</h2>
       <p> 
-      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX">Python for Data Science, AI & Development</a> <br><a>Coursera</a></strong>
+      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX">Python for Data Science, AI & Development</a> <br>Coursera</strong>
       </p>
       <p> 
-      <strong> <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-sql">SQL & BigQuery </a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/pandas"> Pandas</a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/data-cleaning"> Data Cleaning</a>, <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intermediate-machine-learning">Intermediate Machine Learning </a>and <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-deep-learning">Intro to Deep Learning</a><br><a>Kaggle</a></strong>
+      <strong> <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-sql">SQL & BigQuery </a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/pandas"> Pandas</a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/data-cleaning"> Data Cleaning</a>, <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intermediate-machine-learning">Intermediate Machine Learning </a>and <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-deep-learning">Intro to Deep Learning</a><br>Kaggle</strong>
       </p>
       <p> 
-      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/QXTDL2JZJG3Z">Java Basics: Selection and Iteration</a> <br><a>Coursera</a></strong>
+      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/QXTDL2JZJG3Z">Java Basics: Selection and Iteration</a> <br>Coursera</strong>
       </p>
       <center class="instafeed">
         <span class="instalight">
