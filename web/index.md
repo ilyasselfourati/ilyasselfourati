@@ -13,7 +13,7 @@ title: About
   <div class="sidebarparent">
     <div class="sidebar">
      <center>
-     <p><img src="assets/images/image.PNG" alt="Profile Picture" class="profilepic"></p>
+     <p><img src="assets/images/pdp.jpg" alt="Profile Picture" class="profilepic"></p>
       <h1>Ilyass El Fourati</h1><br>
       <h2>Data Scientist/AI Engineer | Centralien Engineer</h2>
       <h3>Seeking First Job<h3>
@@ -41,6 +41,7 @@ title: About
         <li>Extracted patent or scientific article references from OCR documents and automated their download using web scraping.
         </li>
       </ul>
+      🛠️Python : OpenAI, HuggingFace, BeautifulSoup, Pytesseract, Selenium, Pandas
       </p>
      <p><strong style="font-size: 1.5em;">Data Leader </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
      <p>
@@ -105,6 +106,16 @@ title: About
       <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Oct 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
       </p>
       <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
+      <h2><i class="fas fa-graduation-cap"></i> Certificats -</h2>
+      <p> 
+      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX">Python for Data Science, AI & Development</a> <br><a>Coursera</a></strong>
+      </p>
+      <p> 
+      <strong> <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-sql">SQL & BigQuery </a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/pandas"> Pandas</a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/data-cleaning"> Data Cleaning</a>, <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intermediate-machine-learning">Intermediate Machine Learning </a>and <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-deep-learning">Intro to Deep Learning</a><br><a>Kaggle</a></strong>
+      </p>
+      <p> 
+      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/QXTDL2JZJG3Z">Java Basics: Selection and Iteration</a> <br><a>Coursera</a></strong>
+      </p>
       <center class="instafeed">
         <span class="instalight">
           <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
