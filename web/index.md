@@ -41,6 +41,9 @@ title: About
         <li>Extracted patent or scientific article references from OCR documents and automated their download using web scraping.
         </li>
       </ul>
+      <b>Librairies & Techniques :</b><br>
+          🛠️Python : Dash, OpenAI, LlamaIndex, LangChain, BeautifulSoup, Selenium, Pytesseract, docx.<br>
+          🛠️Generative AI, ScrapingBee, GitLab, GitKraken.<br>
       </p>
      <p><strong style="font-size: 1.5em;">Data Leader </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
      <p>
@@ -90,7 +93,31 @@ title: About
         <li>Data collection, cleaning, analysis and visualisation.
         <li>Creation of a Dashboard (Dash/Plotly) to present the results.
         </li>
-      <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p>
+    <h2><i class="fas fa-graduation-cap"></i> Academic Project -</h2>
+    <p><strong style="font-size: 1.5em;">RAG for Access to Scientific Articles </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca & AxIA</strong></a> 
+      <ul>
+        <li><b>Objective:</b> Facilitate LLMs' access to scientific articles for advanced interaction.
+        <li>Benchmarking of LLMs (Gemini, GPT, T5) and vector databases (Chroma, Vectorstore Index).
+        <li>PDF parsing and use of Langchain and LlamaIndex libraries.
+        <li><b>Results:</b> Improved integration of LLMs with scientific databases.
+        <li><b>Directed by:</b> Yan LeCun
+        </li>
+      </ul>
+      <a href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view?usp=sharing"><strong>Poster of the project </strong>
+    <p><strong style="font-size: 1.5em;">Identification of Optimal Roof Areas for Solar Heat Absorption and Energy Analysis </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca</strong></a> 
+      <ul>
+        <li><b>Objective:</b> Map flat roofs with maximum solar heat absorption potential in Casablanca and evaluate the energy and environmental implications.
+        <li>Extracted high-resolution satellite images using QGIS.
+        <li>Labeled roofs and their colors.
+        <li>Customized YOLOv7 for roof and color detection.
+        <li>Conducted energy analysis of roofs, including energy consumption for cooling and internal heat levels.
+        <li>Compared results with solutions like Low-E glazing and reflective paint.
+        <li><b>Results:</b> Identified solutions to improve energy efficiency and reduce carbon emissions.
+        </li>
+      </ul>
+      <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.
+      <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong>
+      <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p></p>
       <ul>
         <li>Collection of data from different satellites
         <li>Evaluation of remote sensing data for predicting extreme rainfall over Morocco.
