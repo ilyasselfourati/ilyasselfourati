@@ -83,15 +83,10 @@ title: About
             🛠️ Python : Numpy, NLP, Pandas, Sickit-learn, Gensim.<br>
             🛠️Power BI : Power Query, DashBoards/Rapports, DAX.<br>
             🛠️MySQL
-      </p>
-      <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
-      <p>In-depth study of the impact of COVID on the global economy : </p>
-      <ul>
-        <li>Data collection, cleaning, analysis and visualisation.
-        <li>Creation of a Dashboard (Dash/Plotly) to present the results.
-        </li>
-    <h2><i class="fas fa-graduation-cap"></i> Academic Project -</h2>
-    <p><strong style="font-size: 1.5em;">RAG for Access to Scientific Articles </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca & AxIA</strong></a> 
+      </p> <br>
+      <br>
+    <h2><i class="fas fa-briefcase"></i> Academic Project -</h2>
+    <p><strong style="font-size: 1.5em;">RAG for Access to Scientific Articles </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Feb 2024 - Mar 2024</span><br><a>Ecole Centrale Casablanca & AxIA</strong></a> 
       <ul>
         <li><b>Objective:</b> Facilitate LLMs' access to scientific articles for advanced interaction.
         <li>Benchmarking of LLMs (Gemini, GPT, T5) and vector databases (Chroma, Vectorstore Index).
@@ -114,6 +109,12 @@ title: About
       </ul>
       <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.
       <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong>
+      <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
+      <p>In-depth study of the impact of COVID on the global economy : </p>
+      <ul>
+        <li>Data collection, cleaning, analysis and visualisation.
+        <li>Creation of a Dashboard (Dash/Plotly) to present the results.
+        </li>
       <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p></p>
       <ul>
         <li>Collection of data from different satellites
