@@ -108,7 +108,7 @@ title: About
         </li>
       </ul>
       <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.<br>
-      <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong>
+      <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong></a>
       <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
       <p>In-depth study of the impact of COVID on the global economy : </p>
       <ul>
