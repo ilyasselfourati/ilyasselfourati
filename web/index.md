@@ -95,8 +95,8 @@ title: About
         <li><b>Directed by:</b> Yan LeCun
         </li>
       </ul>
-      <a href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view?usp=sharing"><strong>Poster of the project </strong>
-    <p><strong style="font-size: 1.5em;">Identification of Optimal Roof Areas for Solar Heat Absorption and Energy Analysis </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca</strong></a> 
+      <a href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view?usp=sharing"><strong>Poster of the project </strong></a>
+    <p><strong style="font-size: 1.5em;">Rooftop Heat and Energy Analysis </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca</strong></a> 
       <ul>
         <li><b>Objective:</b> Map flat roofs with maximum solar heat absorption potential in Casablanca and evaluate the energy and environmental implications.
         <li>Extracted high-resolution satellite images using QGIS.
@@ -107,7 +107,7 @@ title: About
         <li><b>Results:</b> Identified solutions to improve energy efficiency and reduce carbon emissions.
         </li>
       </ul>
-      <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.
+      <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.<br>
       <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong>
       <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
       <p>In-depth study of the impact of COVID on the global economy : </p>
