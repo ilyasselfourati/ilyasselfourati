@@ -27,7 +27,7 @@ title: About
   </div>
   <div class="stuff__container">
     <div class="stuff__content">
-     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1KIy_z0aYAUdQQs8sXIYhKu8WmtTw00oR/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
+     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1oASBrY5qb3qvO1q-pMFgwTCi8zhWRp3b/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
       <p><strong>Hello! I’m Ilyass El Fourati,</strong>  a Data Scientist and AI/ML Engineer, holding a degree from digitallab Centrale Marseille and currently pursuing studies at Ecole Centrale Casablanca while interning in my final year. With a deep-rooted belief in the transformative power of technology, I am driven by the prospect of leveraging data to instigate positive change. My passion lies in deploying data science methodologies to untangle intricate challenges and enact tangible enhancements in people's lives. I staunchly advocate for the ethos of hard work and unwavering dedication as fundamental cornerstones of achievement. Echoing the sentiments of celebrated author Stephen King, <strong>'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.'</strong> Committed to perpetual learning and evolution, I am steadfast in my commitment to utilizing my expertise to effect significant advancements in the realm of data science.
