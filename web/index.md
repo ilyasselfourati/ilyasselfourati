@@ -30,20 +30,20 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1oASBrY5qb3qvO1q-pMFgwTCi8zhWRp3b/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>🔍 Turning data into strategic decisions</strong>  
-      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.
-      <strong>💡 What I do:</strong>
+      <p><strong>🔍 Turning data into strategic decisions</strong> <br>
+      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
+      <strong>💡 What I do:</strong><br>
       <ul>
       <li>Build predictive models to optimize decision-making and forecast trends.
       <li>Automate data pipelines to ensure efficiency and reliability in Big Data workflows.
-      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul>
-      <strong>🌟 What sets me apart:</strong>
+      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul><br>
+      <strong>🌟 What sets me apart:</strong><br>
       <ul>
       <li>Crafting actionable insights through intuitive dashboards and clear data visualizations.
       <li>Streamlining processes by designing tailored ETL pipelines for seamless data integration.
       <li>Unlocking the value of unstructured data with semantic analysis (NLP) and visual recognition (Computer Vision).
-      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul>
-      <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.
+      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul><br>
+      <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.<br>
       <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
