@@ -30,7 +30,21 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1oASBrY5qb3qvO1q-pMFgwTCi8zhWRp3b/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hello! I’m Ilyass El Fourati,</strong>  a Data Scientist and AI/ML Engineer, holding a degree from digitallab Centrale Marseille and currently pursuing studies at Ecole Centrale Casablanca while interning in my final year. With a deep-rooted belief in the transformative power of technology, I am driven by the prospect of leveraging data to instigate positive change. My passion lies in deploying data science methodologies to untangle intricate challenges and enact tangible enhancements in people's lives. I staunchly advocate for the ethos of hard work and unwavering dedication as fundamental cornerstones of achievement. Echoing the sentiments of celebrated author Stephen King, <strong>'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.'</strong> Committed to perpetual learning and evolution, I am steadfast in my commitment to utilizing my expertise to effect significant advancements in the realm of data science.
+      <p><strong>🔍 Turning data into strategic decisions</strong>  
+      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.
+      <strong>💡 What I do:</strong>
+      <ul>
+      <li>Build predictive models to optimize decision-making and forecast trends.
+      <li>Automate data pipelines to ensure efficiency and reliability in Big Data workflows.
+      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul>
+      <strong>🌟 What sets me apart:</strong>
+      <ul>
+      <li>Crafting actionable insights through intuitive dashboards and clear data visualizations.
+      <li>Streamlining processes by designing tailored ETL pipelines for seamless data integration.
+      <li>Unlocking the value of unstructured data with semantic analysis (NLP) and visual recognition (Computer Vision).
+      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul>
+      <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.
+      <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
       <p>
