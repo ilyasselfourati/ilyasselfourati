@@ -15,8 +15,8 @@ title: About
      <center>
      <p><img src="assets/images/pdp.jpg" alt="Profile Picture" class="profilepic"></p>
       <h1>Ilyass El Fourati</h1><br>
-      <h2>Data Scientist/AI Engineer | Centralien Engineer</h2>
-      <h3>Seeking First Job<h3>
+      <h2>Data Scientist/Machine Learning Engineer | Centralien Engineer</h2>
+      <h3>Expert en NLP & Machine Learning | Solutions Cloud & Visualisation de Données | Passionné par l'IA<h3>
       <div class="socials">
        <a href="https://www.linkedin.com/in/ilyasselfourati" class="ln" style=" color: inherit;" title="LinkedIn - Ilyass El Fourati"><i class="fab fa-linkedin"></i></a>
        <a href="https://github.com/ilyasselfourati" class="git" style=" color: inherit;" title="Github - Ilyass El Fourati"><i class="fab fa-github"></i></a>
@@ -32,19 +32,22 @@ title: About
       <div class="underline"></div>
       <p><strong>🔍 Turning data into strategic decisions</strong> <br>
       Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
-      <strong>💡 What I do:</strong><br>
+      <br>
+      <strong>💡 What I do:</strong>
       <ul>
       <li>Build predictive models to optimize decision-making and forecast trends.
       <li>Automate data pipelines to ensure efficiency and reliability in Big Data workflows.
-      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul><br>
-      <strong>🌟 What sets me apart:</strong><br>
+      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul>
+      <strong>🌟 What sets me apart:</strong>
       <ul>
       <li>Crafting actionable insights through intuitive dashboards and clear data visualizations.
       <li>Streamlining processes by designing tailored ETL pipelines for seamless data integration.
       <li>Unlocking the value of unstructured data with semantic analysis (NLP) and visual recognition (Computer Vision).
-      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul><br>
+      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul>
       <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.<br>
+      <br>
       <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
+      <br>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
       <p>
@@ -56,7 +59,7 @@ title: About
         </li>
       </ul>
       </p>
-     <p><strong style="font-size: 1.5em;">Data Leader </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
+     <p><strong style="font-size: 1.5em;">Data Scientist & Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
      <p>
       <ul>
         <li>Collect, analyze, and visualize data from internal software (ETL).
@@ -68,10 +71,10 @@ title: About
       </ul>
       <b>Librairies & Techniques :</b><br>
             🛠️Python : Plotly, NLP, Pandas, Transformers, Gensim, HuggingFace, bm25_rank, nltk, ReGex.<br>
-            🛠️Foundry (Palantir)<br>
+            🛠️Foundry (Palantir), MS Azure<br>
             🛠️PostgreSQL
       </p>
-      <p><strong style="font-size: 1.5em;">Data Scientist | Computer Vision </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
+      <p><strong style="font-size: 1.5em;">Consultant Data Scientist | Computer Vision </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
       <p>Reduction of CO2 emissions due to the use of concrete from purchase invoices :
       <ul>
         <li>Collection and cleaning of invoices.
@@ -83,7 +86,7 @@ title: About
       <b>Libraries & techniques :</b><br> 
             🛠️Python : Numpy, Dash, Pandas, Sickit-learn, YOLOv7, Tensorflow, OCR, NER, NLP, Streamlit
       </p>
-      <p><strong style="font-size: 1.5em;">DataFiab Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2022 - Dec 2022</span><br><a>Groupe ADF</strong></a> - Freelance</p>
+      <p><strong style="font-size: 1.5em;">Consultant Data Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2022 - Dec 2022</span><br><a>Groupe ADF</strong></a> - Freelance</p>
       <p>The aim of this project is to clean and standardize maintenance data collected from various sources, structure and store it in a database, apply machine learning (NLP) to the textual information, and visualize and highlight the stored data in Power BI.
       <ul>
         <li>Creation of a generalized pipeline to clean, standardize, and store CMMS (SAP) data from various companies using Pandas (Python) and MySQL.
