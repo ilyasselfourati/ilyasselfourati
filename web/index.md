@@ -1,170 +1,272 @@
 ---
+title: Portfolio
+description: >-
+  Ilyass El Fourati — Data Scientist & AI Engineer. Solutions Machine Learning,
+  GenAI (RAG, LLM), computer vision et industrialisation pour l'industrie 4.0.
 hide:
   - navigation
   - toc
-title: About
 ---
 
-<link rel="stylesheet" href="../../stylesheets/home/about.css">
+# Portfolio
 
-<script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
+<section class="hero" markdown>
 
-<div class="stuff">
-  <div class="sidebarparent">
-    <div class="sidebar">
-     <center>
-     <p><img src="assets/images/pdp.jpg" alt="Profile Picture" class="profilepic"></p>
-      <h1>Ilyass El Fourati</h1><br>
-      <h2>Data Scientist/Machine Learning Engineer | Centralien Engineer</h2>
-      <h3>Expert en NLP & Machine Learning | Solutions Cloud & Visualisation de Données | Passionné par l'IA<h3>
-      <div class="socials">
-       <a href="https://www.linkedin.com/in/ilyasselfourati" class="ln" style=" color: inherit;" title="LinkedIn - Ilyass El Fourati"><i class="fab fa-linkedin"></i></a>
-       <a href="https://github.com/ilyasselfourati" class="git" style=" color: inherit;" title="Github - Ilyass El Fourati"><i class="fab fa-github"></i></a>
-       <a href="mailto:<ilyasselfourati@gmail.com>" class="email" style=" color: inherit;" title="Email - ilyasselfourati@gmail.com"><i class="fas fa-paper-plane"></i></a>
-      </div>
-     </center>
-    </div>
-  </div>
-  <div class="stuff__container">
-    <div class="stuff__content">
-     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1oASBrY5qb3qvO1q-pMFgwTCi8zhWRp3b/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
-     </a></span><h1>About</h1>
-      <div class="underline"></div>
-      <p><strong>🔍 Turning data into strategic decisions</strong> <br>
-      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
-      <br>
-      <strong>💡 What I do:</strong>
-      <ul>
-      <li>Build predictive models to optimize decision-making and forecast trends.
-      <li>Automate data pipelines to ensure efficiency and reliability in Big Data workflows.
-      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul>
-      <strong>🌟 What sets me apart:</strong>
-      <ul>
-      <li>Crafting actionable insights through intuitive dashboards and clear data visualizations.
-      <li>Streamlining processes by designing tailored ETL pipelines for seamless data integration.
-      <li>Unlocking the value of unstructured data with semantic analysis (NLP) and visual recognition (Computer Vision).
-      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul>
-      <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.<br>
-      <br>
-      <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
-      <br>
-     <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong style="font-size: 1.5em;">Data Scientist </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Apr 2024 - Oct 2024</span><br><a>Santarelli Group</a></strong> - Internship</p>
-      <p>
-      <ul>
-        <li>Designed an application based on language models (LLM) specialized in the field of intellectual property to assist patent engineers.
-        <li>Utilized retrieval-augmented generation (RAG) to leverage the company's internal documents, minimizing hallucinations and facilitating the processing of large documents.
-        <li>Performed optical character recognition (OCR) on written opinions (official letters from patent offices) to prepare documents for analysis by LLM.
-        <li>Extracted patent or scientific article references from OCR documents and automated their download using web scraping.
-        </li>
-      </ul>
-      </p>
-     <p><strong style="font-size: 1.5em;">Data Scientist & Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2023 - Sept 2023</span><br><a>Forvia</a></strong> - Internship</p>
-     <p>
-      <ul>
-        <li>Collect, analyze, and visualize data from internal software (ETL).
-        <li>Implement data storage in a PostgreSQL database.
-        <li>Design dynamic dashboards on Foundry (Palantir) to compare data from various sources.
-        <li>Optimize an internal search engine by integrating semantics.
-        <li>Implement summary models to shorten the length of texts in documents. (NLP)
-        </li>
-      </ul>
-      <b>Librairies & Techniques :</b><br>
-            🛠️Python : Plotly, NLP, Pandas, Transformers, Gensim, HuggingFace, bm25_rank, nltk, ReGex.<br>
-            🛠️Foundry (Palantir), MS Azure<br>
-            🛠️PostgreSQL
-      </p>
-      <p><strong style="font-size: 1.5em;">Consultant Data Scientist | Computer Vision </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Dec 2022 - Mar 2023</span><br><a>NGE</a></strong> - Freelance</p>
-      <p>Reduction of CO2 emissions due to the use of concrete from purchase invoices :
-      <ul>
-        <li>Collection and cleaning of invoices.
-        <li>Extraction of precise data from scanned images using YOLOv7 and DocTR (OCR)
-        <li>Detection and counting of people, enabling accurate footfall analysis and facilitating crowd control measures.
-        <li>Development of a web application in Python with DASH, allowing for the upload of invoices and the automated generation of an Excel dataframe containing the extracted data.
-        </li>
-      </ul>
-      <b>Libraries & techniques :</b><br> 
-            🛠️Python : Numpy, Dash, Pandas, Sickit-learn, YOLOv7, Tensorflow, OCR, NER, NLP, Streamlit
-      </p>
-      <p><strong style="font-size: 1.5em;">Consultant Data Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2022 - Dec 2022</span><br><a>Groupe ADF</strong></a> - Freelance</p>
-      <p>The aim of this project is to clean and standardize maintenance data collected from various sources, structure and store it in a database, apply machine learning (NLP) to the textual information, and visualize and highlight the stored data in Power BI.
-      <ul>
-        <li>Creation of a generalized pipeline to clean, standardize, and store CMMS (SAP) data from various companies using Pandas (Python) and MySQL.
-        <li>Extraction of keywords from textual data using TF-IDF, RAKE, and TextRank.
-        <li> Detection of themes using Topic Modeling algorithms (BERTopic, LDA, and NMF).
-        <li>Comparison of models used for keyword and theme extraction using specific Natural Language Processing (NLP) metrics such as coherence.
-        <li>Enhancing data accessibility and readability by creating visualizations such as Pareto charts, NLP algorithm results, failure reports, etc., in Power BI.
-        </li>
-      </ul>
-      <b>Libraries & techniques :</b><br> 
-            🛠️ Python : Numpy, NLP, Pandas, Sickit-learn, Gensim.<br>
-            🛠️Power BI : Power Query, DashBoards/Rapports, DAX.<br>
-            🛠️MySQL
-      </p> <br>
-      <br>
-    <h2><i class="fas fa-briefcase"></i> Academic Project -</h2>
-    <p><strong style="font-size: 1.5em;">RAG for Access to Scientific Articles </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Feb 2024 - Mar 2024</span><br><a>Ecole Centrale Casablanca & AxIA</strong></a> 
-      <ul>
-        <li><b>Objective:</b> Facilitate LLMs' access to scientific articles for advanced interaction.
-        <li>Benchmarking of LLMs (Gemini, GPT, T5) and vector databases (Chroma, Vectorstore Index).
-        <li>PDF parsing and use of Langchain and LlamaIndex libraries.
-        <li><b>Results:</b> Improved integration of LLMs with scientific databases.
-        <li><b>Directed by:</b> Yan LeCun
-        </li>
-      </ul>
-      <a href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view?usp=sharing"><strong>Poster of the project </strong></a>
-    <p><strong style="font-size: 1.5em;">Rooftop Heat and Energy Analysis </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca</strong></a> 
-      <ul>
-        <li><b>Objective:</b> Map flat roofs with maximum solar heat absorption potential in Casablanca and evaluate the energy and environmental implications.
-        <li>Extracted high-resolution satellite images using QGIS.
-        <li>Labeled roofs and their colors.
-        <li>Customized YOLOv7 for roof and color detection.
-        <li>Conducted energy analysis of roofs, including energy consumption for cooling and internal heat levels.
-        <li>Compared results with solutions like Low-E glazing and reflective paint.
-        <li><b>Results:</b> Identified solutions to improve energy efficiency and reduce carbon emissions.
-        </li>
-      </ul>
-      <b>Technologies:</b> QGIS, YOLOv7, Dash, HTML, CSS.<br>
-      <a href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view?usp=sharing"><strong>Poster of the project </strong></a>
-      <p><strong style="font-size: 1.5em;">Data Science Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sept 2022 - Oct 2022</span><br><a>Ecole Centrale Marseille</strong></a> - Academic Project</p>
-      <p>In-depth study of the impact of COVID on the global economy : </p>
-      <ul>
-        <li>Data collection, cleaning, analysis and visualisation.
-        <li>Creation of a Dashboard (Dash/Plotly) to present the results.
-        </li>
-      <p><strong style="font-size: 1.5em;">Scientific Research Project </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Oct 2021 - Jan 2022</span><br><a>Ecole Centrale Casablanca</strong></a> - Academic Project</p></p>
-      <ul>
-        <li>Collection of data from different satellites
-        <li>Evaluation of remote sensing data for predicting extreme rainfall over Morocco.
-        </li>
-      </ul>
-     <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
-      <p><strong>Data Science<span class="date" style=" color: inherit;">Sept 2022 - Sept 2023</span><br><a>DigitalLab, Ecole Centrale Marseille</a></strong> France, Nice</p>
-      <p> 
-      <strong> International exchange<span class="date" style=" color: inherit;">Feb 2022 - Jul 2022</span><br><a>Ecole Centrale Lille</a></strong> France, Lille
-      </p>
-      <p> 
-      <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Oct 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
-      </p>
-      <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Ibn Timiya</a></strong> Morocco, Marrakech</p>
-      <h2><i class="fa-solid fa-certificate"></i> Certificats -</h2>
-      <p> 
-      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX">Python for Data Science, AI & Development</a> <br>Coursera</strong>
-      </p>
-      <p> 
-      <strong> <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-sql">SQL & BigQuery </a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/pandas"> Pandas</a>,<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/data-cleaning"> Data Cleaning</a>, <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intermediate-machine-learning">Intermediate Machine Learning </a>and <a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-deep-learning">Intro to Deep Learning</a><br>Kaggle</strong>
-      </p>
-      <p> 
-      <strong> <a href="https://www.coursera.org/account/accomplishments/verify/QXTDL2JZJG3Z">Java Basics: Selection and Iteration</a> <br>Coursera</strong>
-      </p>
-      <center class="instafeed">
-        <span class="instalight">
-          <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
-          <script src="https://cdn2.woxo.tech/a.js#63d9a26430b9879a303c6456" async data-usrc></script>
-        </span>
-      </center>
-    </div>
-  </div>
+<div class="hero__media" markdown>
+![Photo d'Ilyass El Fourati](assets/profile.jpg){ .hero__photo loading="lazy" width="200" height="200" }
 </div>
 
+<div class="hero__content" markdown>
 
+<h1 class="hero__title">Ilyass El Fourati</h1>
+<p class="hero__role">Data Scientist · AI Engineer</p>
+
+<p class="hero__tagline">
+Je conçois et déploie des solutions data &amp; IA à impact métier — Machine Learning
+appliqué, GenAI (RAG, LLM), computer vision et automatisation des opérations.
+</p>
+
+<div class="hero__cta" markdown>
+[Télécharger mon CV](assets/CV_Ilyass_El_Fourati.pdf){ .md-button .md-button--primary download }
+[LinkedIn](https://www.linkedin.com/in/ilyasselfourati/){ .md-button target="_blank" rel="noopener" }
+[GitHub](https://github.com/ilyasselfourati){ .md-button target="_blank" rel="noopener" }
+[Email](mailto:ilyasselfourati@gmail.com){ .md-button }
+</div>
+
+</div>
+</section>
+
+## À propos { .section-title #a-propos }
+
+<p class="about-text" markdown>
+Data Scientist &amp; AI Engineer orienté production, doté d'une double compétence
+en **Machine Learning appliqué** et en **engineering logiciel**. Je conçois et
+déploie des solutions data/IA à impact métier — maintenance prédictive industrielle,
+computer vision, GenAI (RAG, LLM) et automatisation des opérations. Diplômé
+ingénieur de l'**École Centrale Casablanca**, je transforme la donnée en
+décisions concrètes au service de la performance et de l'industrie 4.0.
+</p>
+
+## Expériences { .section-title #experiences }
+
+<div class="timeline" markdown>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Consultant Data, Audit IT</h3>
+<span class="timeline__company">Deloitte (Deloitte Extended Services Maroc)</span>
+<span class="timeline__date">02/2026 — présent</span>
+<span class="timeline__location">Casablanca, Maroc</span>
+</div>
+<ul class="timeline__bullets">
+<li>Fiabilisation et contrôle qualité de pipelines data : preprocessing et calcul de métriques sur des jeux de données critiques.</li>
+<li>Industrialisation du code via les bonnes pratiques d'ingénierie (typing statique <code>mypy</code>, dataclasses, tests de recette, Git) et rédaction de spécifications techniques.</li>
+</ul>
+</div>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Data Scientist &amp; AI Engineer</h3>
+<span class="timeline__company">The Game Changer Company</span>
+<span class="timeline__date">07/2025 — 01/2026</span>
+<span class="timeline__location">Casablanca, Maroc</span>
+</div>
+<ul class="timeline__bullets">
+<li>Backends FastAPI pour des applications data/IA déployées en production (VM Linux, Docker) ; workflows d'automatisation (n8n).</li>
+<li>Service de génération automatique de rapports analytiques intégrant analyses IA et dashboards.</li>
+<li>Composants NLP/GenAI (recherche sémantique, RAG) et système multi-agents (agents RAG, SQL, routeur) sur LangChain et Azure OpenAI.</li>
+</ul>
+</div>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Stage Data Scientist, GenAI — Projet de Fin d'Études</h3>
+<span class="timeline__company">Santarelli</span>
+<span class="timeline__date">05/2024 — 11/2024</span>
+<span class="timeline__location">Paris, France</span>
+</div>
+<ul class="timeline__bullets">
+<li>Pipelines NLP d'extraction et de classification automatique sur documents complexes.</li>
+<li>LLM en recherche sémantique (RAG, OCR Pytesseract à 95 % de précision) pour l'analyse de brevets : <strong>−50 % de temps d'analyse</strong>, sur des documents de 100+ pages.</li>
+</ul>
+</div>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Stage Data Scientist &amp; Engineer</h3>
+<span class="timeline__company">Forvia</span>
+<span class="timeline__date">03/2023 — 09/2023</span>
+<span class="timeline__location">Méru, France</span>
+</div>
+<ul class="timeline__bullets">
+<li>Pipelines data (ETL) sur Azure et Palantir Foundry (jusqu'à <strong>10 M d'enregistrements/jour</strong>).</li>
+<li>Refonte du moteur de recherche interne (BERT, Doc2Vec, hybrid search) : <strong>+40 % de pertinence</strong>.</li>
+</ul>
+</div>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Data Scientist, Computer Vision</h3>
+<span class="timeline__company">NGE</span>
+<span class="timeline__date">12/2022 — 02/2023</span>
+<span class="timeline__location">Nice, France</span>
+</div>
+<ul class="timeline__bullets">
+<li>Extraction de données par OCR et détection de tableaux (YOLOv7, DocTR) ; application Dash pour générer automatiquement un dataset Excel.</li>
+<li>Visualisation de l'impact CO₂ des achats (béton).</li>
+</ul>
+</div>
+
+<div class="timeline__item" markdown>
+<div class="timeline__meta" markdown>
+<h3 class="timeline__role">Data Scientist</h3>
+<span class="timeline__company">Groupe ADF</span>
+<span class="timeline__date">10/2022 — 12/2022</span>
+<span class="timeline__location">Nice, France</span>
+</div>
+<ul class="timeline__bullets">
+<li>Modèles prédictifs (Random Forest, LSTM) pour anticiper les pannes industrielles et optimiser la maintenance.</li>
+<li>Pipeline de nettoyage/standardisation de données CMMS (SAP), extraction de mots-clés (TF-IDF, RAKE, TextRank), topic modeling (BERTopic, LDA, NMF), tableaux de bord KPIs sous Power BI.</li>
+</ul>
+</div>
+
+</div>
+
+## Projets académiques { .section-title #projets }
+
+<div class="grid-cards" markdown>
+
+<div markdown>
+<h3>RAG pour l'accès aux articles scientifiques</h3>
+<p>Benchmark LLM (Gemini, GPT, T5) et bases vectorielles (Chroma), parsing PDF, LangChain &amp; LlamaIndex. Facilite l'accès aux corpus scientifiques.</p>
+<div class="card-tags">
+<span>RAG</span><span>LangChain</span><span>LlamaIndex</span><span>Chroma</span>
+</div>
+<a class="card-link" href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view" target="_blank" rel="noopener">Voir le poster →</a>
+<p style="font-size:0.75rem;color:var(--color-text-muted);margin-top:var(--space-2);"><em>Centrale Casablanca &amp; AxIA · 2024</em></p>
+</div>
+
+<div markdown>
+<h3>Analyse thermique &amp; énergétique des toitures</h3>
+<p>Images satellites (QGIS), YOLOv7 pour la détection des toits, analyse énergétique et pistes de réduction carbone à l'échelle de Casablanca.</p>
+<div class="card-tags">
+<span>YOLOv7</span><span>QGIS</span><span>Computer Vision</span>
+</div>
+<a class="card-link" href="https://drive.google.com/file/d/1qm-Li-gV8lu4wHj9JgKtI3arBFyh789L/view" target="_blank" rel="noopener">Voir le poster →</a>
+<p style="font-size:0.75rem;color:var(--color-text-muted);margin-top:var(--space-2);"><em>Centrale Casablanca · 2023–2024</em></p>
+</div>
+
+<div markdown>
+<h3>Impact du COVID sur l'économie mondiale</h3>
+<p>Collecte, nettoyage et visualisation de données économiques ; dashboard interactif Dash/Plotly pour explorer les effets de la pandémie.</p>
+<div class="card-tags">
+<span>Dash</span><span>Plotly</span><span>Pandas</span>
+</div>
+<p style="font-size:0.75rem;color:var(--color-text-muted);margin-top:var(--space-2);"><em>Centrale Marseille · 2022</em></p>
+</div>
+
+<div markdown>
+<h3>Télédétection — pluies extrêmes au Maroc</h3>
+<p>Projet de recherche : exploitation de données satellites pour la prédiction des pluies extrêmes sur le territoire marocain.</p>
+<div class="card-tags">
+<span>Télédétection</span><span>Recherche</span><span>Python</span>
+</div>
+<p style="font-size:0.75rem;color:var(--color-text-muted);margin-top:var(--space-2);"><em>Centrale Casablanca · 2021–2022</em></p>
+</div>
+
+</div>
+
+## Compétences { .section-title #competences }
+
+<div class="skills-group" markdown>
+### Machine Learning, IA &amp; Computer Vision
+<ul class="chips">
+<li>Python</li><li>Scikit-Learn</li><li>XGBoost</li><li>PyTorch</li>
+<li>Random Forest</li><li>LSTM</li><li>YOLOv7</li><li>OCR</li>
+<li>BERT</li><li>Doc2Vec</li>
+</ul>
+</div>
+
+<div class="skills-group" markdown>
+### GenAI &amp; NLP
+<ul class="chips">
+<li>LangChain</li><li>RAG</li><li>LLM</li><li>Azure OpenAI</li>
+<li>Recherche sémantique</li><li>BERTopic</li>
+</ul>
+</div>
+
+<div class="skills-group" markdown>
+### Engineering &amp; MLOps
+<ul class="chips">
+<li>FastAPI</li><li>Docker</li><li>Linux (CLI)</li><li>Git</li>
+<li>CI/CD</li><li>n8n</li>
+</ul>
+</div>
+
+<div class="skills-group" markdown>
+### Data &amp; Cloud
+<ul class="chips">
+<li>SQL</li><li>BigQuery</li><li>Spark</li><li>Azure</li>
+<li>Palantir Foundry</li><li>Power BI</li>
+</ul>
+</div>
+
+## Formation { .section-title #formation }
+
+<ul class="education-list">
+<li>
+<span class="edu-title">Diplôme d'Ingénieur d'État — Spécialité Data Science</span>
+<span class="edu-org">École Centrale Casablanca <em>(partenariat Centrale Lille)</em></span>
+<span class="edu-date">2020 — 2024</span>
+</li>
+<li>
+<span class="edu-title">Postgraduate Diploma in Data Science</span>
+<span class="edu-org">DigitalLab — École Centrale de Marseille</span>
+<span class="edu-date">2022 — 2023</span>
+</li>
+<li>
+<span class="edu-title">Échange international</span>
+<span class="edu-org">École Centrale de Lille</span>
+<span class="edu-date">2022</span>
+</li>
+<li>
+<span class="edu-title">Classes préparatoires (Maths–Physique)</span>
+<span class="edu-org">Ibn Timiya, Marrakech</span>
+<span class="edu-date">2018 — 2020</span>
+</li>
+</ul>
+
+## Certifications { .section-title #certifications }
+
+<ul class="education-list">
+<li>
+<span class="edu-title"><a href="https://www.coursera.org/account/accomplishments/verify/C3NBF4EVQ7CX" target="_blank" rel="noopener">Python for Data Science &amp; AI</a></span>
+<span class="edu-org">Coursera</span>
+</li>
+<li>
+<span class="edu-title">Google Cloud Big Data and Machine Learning Fundamentals</span>
+<span class="edu-org">Google Cloud · Coursera</span>
+</li>
+<li>
+<span class="edu-title">
+Kaggle —
+<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-sql" target="_blank" rel="noopener">SQL &amp; BigQuery</a>,
+<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/pandas" target="_blank" rel="noopener">Pandas</a>,
+<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/data-cleaning" target="_blank" rel="noopener">Data Cleaning</a>,
+<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intermediate-machine-learning" target="_blank" rel="noopener">Intermediate ML</a>,
+<a href="https://www.kaggle.com/learn/certification/ilyasselfourati/intro-to-deep-learning" target="_blank" rel="noopener">Intro to Deep Learning</a>
+</span>
+<span class="edu-org">Kaggle</span>
+</li>
+</ul>
+
+## Contact { .section-title #contact }
+
+<div class="contact-block" markdown>
+<p>Une opportunité, un projet data/IA ou simplement échanger ? N'hésitez pas.</p>
+<div class="hero__cta" markdown>
+[Écrivez-moi un email](mailto:ilyasselfourati@gmail.com){ .md-button .md-button--primary }
+[LinkedIn](https://www.linkedin.com/in/ilyasselfourati/){ .md-button target="_blank" rel="noopener" }
+[GitHub](https://github.com/ilyasselfourati){ .md-button target="_blank" rel="noopener" }
+</div>
+</div>

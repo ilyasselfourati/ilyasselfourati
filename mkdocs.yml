@@ -1,213 +1,109 @@
 site_name: Ilyass El Fourati
 site_description: >-
-  It's my personal website where I share my portfolio and the projects I'm working on. 
+  Portfolio d'Ilyass El Fourati — Data Scientist & AI Engineer.
+  Machine Learning appliqué, GenAI (RAG, LLM), computer vision et industrialisation
+  des solutions data au service de l'industrie 4.0.
+site_url: https://ilyasselfourati.github.io/
+site_author: Ilyass El Fourati
+
 docs_dir: web/
 
-# Configuration
+repo_url: https://github.com/ilyasselfourati/ilyasselfourati
+repo_name: ilyasselfourati/ilyasselfourati
+edit_uri: edit/main/web/
+
+copyright: >-
+  © 2026 Ilyass El Fourati — Tous droits réservés.
+
 theme:
-    font: false
-    name: material
-    logo: 'logo.png'
-    favicon: 'logo.png'
-    icon:
-      previous: fontawesome/solid/angle-left
-      next: fontawesome/solid/angle-right
-    palette:
-      - scheme: default
-        primary: black
-        media: "(prefers-color-scheme: light)"
-        toggle:
-          icon: material/brightness-7
-          name: Switch to dark mode
-        accent: 'indigo'
-      - scheme: slate
-        media: "(prefers-color-scheme: dark)"
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
-        primary: black
-        accent: 'blue'
+  name: material
+  custom_dir: overrides
+  language: fr
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
-    features:
-        - navigation.instant
-        - content.action.edit
-        - content.code.copy
-        - content.code.select
-        # - announce.dismiss
-        - content.code.annotate
-        # - content.tabs.link
-        - content.tooltips
-        # - header.autohide
-        # - navigation.expand
-        - navigation.indexes
-        # - navigation.instant
-        # - navigation.prune
-        #- navigation.sections
-        - navigation.tabs
-        # - navigation.tabs.sticky
-        - navigation.top
-        - navigation.tracking
-        - search.highlight
-        - search.share
-        - search.suggest
-        - toc.follow
-        # - navigation.expand
-        - navigation.footer
-        # - toc.integrate
-        - navigation.path
-        - navigation.indexes
-        - content.code.select
+  font:
+    text: Inter
+    code: JetBrains Mono
 
-    custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+    - toc.follow
 
 extra_css:
-    - 'stylesheets/extra.css'
-    - 'stylesheets/fonts.css'
-    - 'stylesheets/home/extra.css'
-    - 'stylesheets/home/about.css'
+  - stylesheets/tokens.css
+  - stylesheets/base.css
+  - stylesheets/home.css
 
-# Customization
 extra:
   analytics:
     provider: google
     property: G-4GPL6MXYQ3
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our Comments section below.
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/ilyasselfourati
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ilyasselfourati/
-    - icon: fontawesome/brands/facebook
+      name: LinkedIn — Ilyass El Fourati
+    - icon: fontawesome/brands/github
+      link: https://github.com/ilyasselfourati
+      name: GitHub — ilyasselfourati
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:ilyasselfourati@gmail.com
+      name: Email — ilyasselfourati@gmail.com
 
+plugins:
+  - search:
+      lang: fr
 
-# Repository
-repo_url: https://github.com/ilyasselfourati/ilyasselfourati
-edit_uri: edit/source/web/
-
-# Copyright
-copyright: Copyright &copy; 2024 Ilyass El Fourati
-
-
-# Extensions
 markdown_extensions:
-    - meta
-    - attr_list
-    - codehilite
-    - sane_lists
-    - admonition
-    - pymdownx.arithmatex
-    - pymdownx.betterem:
-        smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    # - pymdownx.emoji:
-    #     emoji_generator: !!python/name:pymdownx.emoji.to_svg
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences:
-        custom_fences:
-          - name: mermaid
-            class: mermaid
-            format: !!python/name:pymdownx.superfences.fence_code_format
-    - pymdownx.tasklist:
-        custom_checkbox: true
-    - pymdownx.tilde
-    - md_in_html
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+  - meta
+  - attr_list
+  - md_in_html
+  - admonition
+  - sane_lists
+  - footnotes
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# Page tree
 nav:
-  - Portfolio: index.md
-  # - Projects:
-  #   - 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-  #     - projects/Professional Projects/index.md
-  #   - 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-  #     - projects/Academic Projects/index.md
-  #     - Spam Dataset: projects/Academic Projects/spam datasets.md
-  #     - Ozone Dataset: projects/Academic Projects/ozone datasets.md
-  #     - Boston Dataset: projects/Academic Projects/boston datasets.md
-  #     - TP_GNN : projects/Academic Projects/tp_gnn.md
-  #     - Abstractive Summarization: projects/Academic Projects/abstractive summarization.md
-  #     - Big-Data For IoT: projects/Academic Projects/big data for iot.md
-  #     - Profilage des chauffeurs: projects/Academic Projects/projet R.md
-  #     - Reciprocal n-body Collision Avoidance : projects/Academic Projects/Reciprocal-n-body-Collision-Avoidance.md
-  #     - Algorithmes Génétiques 2, Peindre Vermeer : projects/Academic Projects/Painting Vermeer.md
-  # - Tutorials:
-  #   - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:
-  #     - Tutorials/Libraries/index.md
-  #     - NumPy: Tutorials/Libraries/numpy.md
-  #     - Pandas: Tutorials/Libraries/pandas.md
-  #   - 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧:
-  #     - Tutorials/Computer Vision Algorithms/index.md
-  #     - YOLO-NAS: Tutorials/Computer Vision Algorithms/yolonas.md
-  #   - 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠: 
-  #     - Tutorials/Natural Language Processing/index.md
-  #     - Bases of NLP: Tutorials/Natural Language Processing/bases.md
-    #   - Tools of NLP: Tutorials/Natural Language Processing/tools.md
-    #   - Simple Analysis: Tutorials/Natural Language Processing/simple.md
-    #   - Advanced Analysis: Tutorials/Natural Language Processing/advanced.md
-    #   - Data Collection: Tutorials/Natural Language Processing/collection.md
-    #   - RNN: Tutorials/Natural Language Processing/reseaunn.md
-    #   - Modern Technics: Tutorials/Natural Language Processing/modern.md
-  # - Blogs:
-  #   - 𝐌𝐋 & 𝐃𝐋 𝐌𝐨𝐫𝐨𝐜𝐜𝐨 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬: 
-  #     - blogs/MA challenges/index.md
-  #     - 📚 Day 1 - Education : blogs/MA challenges/education.md
-  #     - 🏥 Day 2 - Healthcare : blogs/MA challenges/healthcare.md
-  #     - 🌾 Day 3 - Agriculture : blogs/MA challenges/agriculture.md
-  #     - 💰 Day 4 - Finance : blogs/MA challenges/finance.md
-  #     - ⚡ Day 5 - Sustainable Energy : blogs/MA challenges/energy.md
-  #     - 🚗 Day 6 - Transportation : blogs/MA challenges/transportation.md
-  #     - 🚀 Day 7 - Innovation : blogs/MA challenges/innovation.md
-  #     - 🏛️ Day 8 - Public Services : blogs/MA challenges/public_services.md
-  #     - 🌐 Day 9 - Cybersecurity : blogs/MA challenges/cybersecurity.md
-  #     - 🧠 Day 10 - AI Talent : blogs/MA challenges/ai_talent.md
-  #     - 🛡️ Day 11 - Data Privacy : blogs/MA challenges/data_privacy.md
-  #     - 🤝 Day 12 - Collaboration : blogs/MA challenges/collaboration.md
-  #   - 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐲 𝐒𝐞𝐫𝐢𝐞𝐬:
-  #     - blogs/Data Pipelines/index.md
-  #     - Batch Processing Data Pipeline: blogs/Data Pipelines/batch_processing.md
-  #     - Real-Time Streaming Data Pipeline: blogs/Data Pipelines/real_time_processing.md
-  #     - Cloud-Based Data Pipeline: blogs/Data Pipelines/cloud_based_processing.md
-  #     - Machine Learning Data Pipeline: blogs/Data Pipelines/serverless_processing.md
-  # - Books: books/not yet.md
-    # - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: 
-    #   - Preface: books/Hands on machine learning/preface.md
-    #   - The Fundamentals of Machine Learning:
-    #     - The Machine Learning Landscape: books/Hands on machine learning/The Fundamentals of Machine Learning/3.1. The Machine Learning Landscape.md
-    #     - End-to-End Machine Learning Project: books/Hands on machine learning/The Fundamentals of Machine Learning/3.2. End-to-End Machine Learning Project.md
-    #     - Classification: books/Hands on machine learning/The Fundamentals of Machine Learning/3.3. Classification.md
-    #     - Training Models: books/Hands on machine learning/The Fundamentals of Machine Learning/3.4. Training Models.md
-    #     - Support Vector Machines: books/Hands on machine learning/The Fundamentals of Machine Learning/3.5. Support Vector Machines.md
-    #     - Decision Trees: books/Hands on machine learning/The Fundamentals of Machine Learning/3.6. Decision Trees.md
-    #     - Ensemble Learning and Random Forests: books/Hands on machine learning/The Fundamentals of Machine Learning/3.7. Ensemble Learning and Random Forests.md
-    #     - Dimensionality Reduction: books/Hands on machine learning/The Fundamentals of Machine Learning/3.8. Dimensionality Reduction.md
-    #     - Unsupervised Learning Techniques: books/Hands on machine learning/The Fundamentals of Machine Learning/3.9. Unsupervised Learning Techniques.md
-    #   - Neural Networks and Deep Learning:
-    #     - Introduction to Artificial Neural Networks with Keras: books/Hands on machine learning/Neural Networks and Deep Learning/4.1. Introduction to Artificial Neural Networks with Keras.md
-    #     - Training Deep Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.2. Training Deep Neural Networks.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.3. Custom Models and Training with TensorFlow.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.4. Loading and Preprocessing Data with TensorFlow.md
-    #     - Deep Computer Vision Using Convolutional Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.5. Deep Computer Vision Using Convolutional Neural Networks.md
-    #   - About the Author: books/Hands on machine learning/About the Author.md
-    #   - Colophon: books/Hands on machine learning/Colophon.md
-  # - Services: services/documentation.md
-    # - Creation of professional documentation: services/documentation.md
+  - Accueil: index.md
