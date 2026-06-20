@@ -1,4 +1,4 @@
-<h2 align ="center">Data Scientist | Data Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<h2 align ="center">Data Scientist | Machine Learning Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,7 +7,25 @@
 
 ### :man_technologist: About Me :
 
-I'm Ilyass El Fourati, a `Data Scientist` and `Data Engineer`, holding a degree from digitallab Centrale Marseille and currently pursuing studies at Ecole Centrale Casablanca while interning in my final year. With a deep-rooted belief in the transformative power of technology, I am driven by the prospect of leveraging data to instigate positive change. My passion lies in deploying data science methodologies to untangle intricate challenges and enact tangible enhancements in people's lives. I staunchly advocate for the ethos of hard work and unwavering dedication as fundamental cornerstones of achievement. Echoing the sentiments of celebrated author Stephen King, __'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.'__ Committed to perpetual learning and evolution, I am steadfast in my commitment to utilizing my expertise to effect significant advancements in the realm of data science.
+<p><strong>🔍 Turning data into strategic decisions</strong> <br>
+      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
+      <br>
+      <strong>💡 What I do:</strong>
+      <ul>
+      <li>Build predictive models to optimize decision-making and forecast trends.
+      <li>Automate data pipelines to ensure efficiency and reliability in Big Data workflows.
+      <li>Leverage advanced technologies: Generative AI (LLM, RAG), NLP, Computer Vision, and Cloud Computing (Azure, GCP).</li></ul>
+      <strong>🌟 What sets me apart:</strong>
+      <ul>
+      <li>Crafting actionable insights through intuitive dashboards and clear data visualizations.
+      <li>Streamlining processes by designing tailored ETL pipelines for seamless data integration.
+      <li>Unlocking the value of unstructured data with semantic analysis (NLP) and visual recognition (Computer Vision).
+      <li>Empowering businesses by automating repetitive and time-intensive tasks.</li></ul>
+      <strong>📂 Découvrez mes projets </strong> sur <a href="https://ilyasselfourati.github.io/ilyasselfourati/">mon portfolio</a>, où je présente des réalisations concrètes.<br>
+      <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.<br>
+      <br>
+      <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
+      <br>
 
 ### 🤝🏻 Socials
 
